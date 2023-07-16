@@ -50,7 +50,7 @@ p {
 	padding: 10px 30px;
 	color: white;
 	background-color: transparent;
-	border: 2px solid crimson;
+	border: 2px solid rgba(9, 179, 251, 0.952);
 	font-size: 2rem;
 	text-transform: uppercase;
 	letter-spacing: 0.1rem;
@@ -60,7 +60,7 @@ p {
 }
 .cta:hover {
 	color: white;
-	background-color: crimson;
+	background-color: pink;
 }
 .brand h1 {
 	font-size: 3rem;
@@ -82,7 +82,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: rgba(9, 236, 111, 0.952);
+	background-color: rgba(9, 179, 251, 0.952);
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -248,7 +248,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: crimson;
+	background-color: pink;
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
@@ -483,7 +483,7 @@ p {
 
 /* Footer */
 #footer {
-	background-color: rgba(9, 236, 111, 0.952);
+	background-color: rgba(9, 179, 251, 0.952);
 }
 #footer .footer {
 	min-height: 200px;
@@ -516,7 +516,7 @@ p {
 	filter: grayscale(0);
 }
 #footer p {
-	color: rgb(233, 11, 11);
+	color: white;
 	font-size: 1.3rem;
 }
 /* End Footer */
