@@ -32,6 +32,7 @@ p {
 	font-weight: 300;
 	letter-spacing: 0.05rem;
 }
+
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;
@@ -42,7 +43,7 @@ p {
 	text-align: center;
 }
 .section-title span {
-	color: rgb(243, 52, 9);
+	color: rgba(245, 54, 11, 0.914);
 }
 
 .cta {
